@@ -12,4 +12,4 @@ $ git push heroku master
 
 
 
-https://ssy-20150817.herokuapp.com/
+https://<name>-20150817.herokuapp.com/
